@@ -153,7 +153,7 @@ public class Week14Program extends Application {
 							"<TITLE>CS1121 Web Browser Help </TITLE>" +
 							"</HEAD" +
 							"<BODY>" +
-							"WebBrowser developed by Michael Riccobono" +
+							"WebBrowser developed by Brandon St. Louis" +
 							"</BODY>" +
 							"</HTML>"
 			);
